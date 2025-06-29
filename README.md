@@ -12,3 +12,4 @@ MENTOR NAME:NEELA SANTOSH
 
 HELP OF SOURCES:YOUTUBE,GOOGLE
 
+ OUTPUT:  ![Image](https://github.com/user-attachments/assets/09044699-3832-4079-a8bd-4640a89d7ca0)
